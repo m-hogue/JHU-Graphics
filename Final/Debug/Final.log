@@ -1,0 +1,64 @@
+﻿Build started 12/8/2014 6:11:18 PM.
+     1>Project "C:\Users\Mike\Dropbox\Academia\JHU\605.467 (Computer Graphics)\LabStudent5\Final\Final.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I../include /I../ /I../lib /I../images /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Final.cpp
+         Final.cpp
+     1>c:\users\mike\dropbox\academia\jhu\605.467 (computer graphics)\labstudent5\shadersupport\glslshader.h(58): warning C4996: '_open': This function or variable may be unsafe. Consider using _sopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\io.h(242) : see declaration of '_open'
+     1>c:\users\mike\dropbox\academia\jhu\605.467 (computer graphics)\labstudent5\shadersupport\glslshader.h(63): warning C4996: '_open': This function or variable may be unsafe. Consider using _sopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\io.h(242) : see declaration of '_open'
+     1>c:\users\mike\dropbox\academia\jhu\605.467 (computer graphics)\labstudent5\shadersupport\glslshader.h(73): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\mike\dropbox\academia\jhu\605.467 (computer graphics)\labstudent5\scene\conicsurface.h(84): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>c:\users\mike\dropbox\academia\jhu\605.467 (computer graphics)\labstudent5\final\lightingshadernode.h(79): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\mike\dropbox\academia\jhu\605.467 (computer graphics)\labstudent5\final\lightingshadernode.h(81): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\mike\dropbox\academia\jhu\605.467 (computer graphics)\labstudent5\final\lightingshadernode.h(83): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\mike\dropbox\academia\jhu\605.467 (computer graphics)\labstudent5\final\lightingshadernode.h(85): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\mike\dropbox\academia\jhu\605.467 (computer graphics)\labstudent5\final\lightingshadernode.h(87): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\mike\dropbox\academia\jhu\605.467 (computer graphics)\labstudent5\final\lightingshadernode.h(89): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\mike\dropbox\academia\jhu\605.467 (computer graphics)\labstudent5\final\lightingshadernode.h(91): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\mike\dropbox\academia\jhu\605.467 (computer graphics)\labstudent5\final\lightingshadernode.h(93): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\mike\dropbox\academia\jhu\605.467 (computer graphics)\labstudent5\final\lightingshadernode.h(95): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\mike\dropbox\academia\jhu\605.467 (computer graphics)\labstudent5\final\lightingshadernode.h(97): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\mike\dropbox\academia\jhu\605.467 (computer graphics)\labstudent5\final\lightingshadernode.h(99): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\mike\dropbox\academia\jhu\605.467 (computer graphics)\labstudent5\final\lightingshadernode.h(101): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(356) : see declaration of 'sprintf'
+     1>c:\users\mike\dropbox\academia\jhu\605.467 (computer graphics)\labstudent5\final\lightingshadernode.h(149): warning C4018: '<' : signed/unsigned mismatch
+     1>c:\users\mike\dropbox\academia\jhu\605.467 (computer graphics)\labstudent5\final\fitting.h(14): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\mike\dropbox\academia\jhu\605.467 (computer graphics)\labstudent5\final\fitting.h(15): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\users\mike\dropbox\academia\jhu\605.467 (computer graphics)\labstudent5\final\fitting.h(21): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\mike\dropbox\academia\jhu\605.467 (computer graphics)\labstudent5\final\fitting.h(22): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\mike\dropbox\academia\jhu\605.467 (computer graphics)\labstudent5\final\fitting.h(23): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\mike\dropbox\academia\jhu\605.467 (computer graphics)\labstudent5\final\fitting.h(24): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\mike\dropbox\academia\jhu\605.467 (computer graphics)\labstudent5\final\fitting.h(25): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\mike\dropbox\academia\jhu\605.467 (computer graphics)\labstudent5\final\fitting.h(26): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\mike\dropbox\academia\jhu\605.467 (computer graphics)\labstudent5\final\fitting.h(27): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\mike\dropbox\academia\jhu\605.467 (computer graphics)\labstudent5\final\fitting.h(28): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\mike\dropbox\academia\jhu\605.467 (computer graphics)\labstudent5\final\final.cpp(82): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>c:\users\mike\dropbox\academia\jhu\605.467 (computer graphics)\labstudent5\final\final.cpp(956): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"Debug\Final.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"Debug\Final.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"Debug\Final.lib" /MACHINE:X86 /VERBOSE Debug\Final.obj
+         Debug\gl3w.obj
+         Generating non-SAFESEH image.
+         Starting pass 2
+              Final.obj
+              MSVCRTD.lib(loadcfg.obj)
+         Finished pass 2
+         Final.vcxproj -> C:\Users\Mike\Dropbox\Academia\JHU\605.467 (Computer Graphics)\LabStudent5\Final\Debug\Final.exe
+     1>Done Building Project "C:\Users\Mike\Dropbox\Academia\JHU\605.467 (Computer Graphics)\LabStudent5\Final\Final.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.15

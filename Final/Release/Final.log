@@ -1,0 +1,11 @@
+﻿Build started 12/5/2014 9:06:20 PM.
+     1>Project "C:\Users\Mike\Dropbox\Academia\JHU\605.467 (Computer Graphics)\LabStudent5\Final\Final.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I../include/ /I../ /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\Final.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Final.cpp
+         Final.cpp
+     1>Final.cpp(683): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
+     1>Done Building Project "C:\Users\Mike\Dropbox\Academia\JHU\605.467 (Computer Graphics)\LabStudent5\Final\Final.vcxproj" (Build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.24

@@ -1,0 +1,56 @@
+Vector Test
+
+2D Operations
+
+Point a (2.00, 0.00)
+Point b (-3.00, 3.00)
+Point c (3.00, -5.00)
+Point m (mid point between a and b) is (-0.50, 1.50)
+Point q (1/4 between a and b) is (0.75, 0.75)
+Vector v (-5.00, 3.00)
+Norm of v = 5.83
+Unit vector of v = (-0.86, 0.51)
+Note: v is now a unit vector (result of Normalize())
+Vector w (6.00, -8.00)
+Unit vector of w = (0.60, -0.80)
+Vector t0 (-3.00, 4.00)
+Vector t1 (-3.00, 4.00)
+Vector v + w = (-0.26, -0.29)
+Dot Product of v and w is -0.926092
+Angle between v and w = 157.83 degrees
+Point d: (0.00 -1.00)
+Projection of w onto v is (0.79 -0.48)
+Clockwise perpendicular to wOnV is (-0.48 -0.79)
+Counter-Clockwise perpendicular to wOnV is (0.48 0.79)
+Reflection of t0 off the x-axis is -3.000000 -4.000000
+Distance of point c from line segment ab is 5.10
+Closest Point is (2.00, 0.00)
+Point e (-2.00, 8.00)
+Distance of point e from line segment ab is 5.10
+Closest Point is (-3.00, 3.00)
+Point f (6.00, -3.00)
+Distance of point f from line segment ab is 5.00
+Closest Point is (2.00, 0.00)
+
+3D Operations
+
+Point a3 (0.00, -2.00, 0.00)
+Point b3 (-4.00, 2.00, 5.00)
+Point c3 (2.00, -1.00, -3.00)
+Point m3 (mid point between a3 and b3) is (-2.00, 0.00, 2.50)
+Point q3 (1/4 between a3 and b3) is (-1.00, -1.00, 1.25)
+Vector v3 (-4.00, 4.00, 5.00)
+Norm of v = 7.55
+Unit vector of v3 = (-0.53, 0.53, 0.66)
+Note: v3 is now a unit vector (result of Normalize())
+Vector t3 (5.30, -5.30, -6.62)
+Vector t31 (5.30, -5.30, -6.62)
+Vector w3 (2.00, 1.00, -3.00)
+Vector v3 + w3 = (1.47, 1.53, -2.34)
+Dot Product of v3 and w3 is -2.516611
+Angle between v3 and w3 = 132.27 degrees
+Point d3: (7.30 -6.30 -9.62)
+Projection of w3 onto v3 is (1.33 -1.33 -1.67)
+m34 = (4.00 -3.25 0.75)
+Distance of point c3 from line segment ab is 3.74
+Closest Point is (0.00, -2.00, 0.00)

@@ -1,0 +1,19 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Animation3D", "Animation2D.vcxproj", "{FAC3C33F-8E86-41E2-A26A-7B521CF503DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAC3C33F-8E86-41E2-A26A-7B521CF503DA}.Debug|Default.ActiveCfg = Debug|Win32
+		{FAC3C33F-8E86-41E2-A26A-7B521CF503DA}.Debug|Default.Build.0 = Debug|Win32
+		{FAC3C33F-8E86-41E2-A26A-7B521CF503DA}.Release|Default.ActiveCfg = Release|Win32
+		{FAC3C33F-8E86-41E2-A26A-7B521CF503DA}.Release|Default.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
